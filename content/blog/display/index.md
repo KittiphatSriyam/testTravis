@@ -97,7 +97,8 @@ description: "the display property specifies the display behavior (the type of r
 
 <div>Lorem ipsum dolor sit amet <span class="c">Aliquam</span> <span class="c">venenatis</span> gravida nisl sit amet facilisis. Nullam cursus fermentum velit sed laoreet. </div>
 <hr />
-<h2>display: None</h2>
+<h2>display: None</h2> 
+<p>	เป็นการปิดการแสดงของ element</p>
 
 <code>
     &#x3C;span style="display:none;"&#x3E;One Block&#x3C;/span&#x3E;
