@@ -17,5 +17,5 @@ after_success:
 
 notifications:
   email:
-    on_failure: kittiphat.s@.com
-    on_success: tonmanna@gmail.com
+    on_failure: kittiphat.s@theiconweb.com
+    on_success: kittiphat.s@theiconweb.com
