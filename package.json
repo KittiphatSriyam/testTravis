@@ -8,6 +8,7 @@
     "url": "https://github.com/gatsbyjs/gatsby/issues"
   },
   "dependencies": {
+    "firebase-tools": "^7.3.0",
     "gatsby": "^2.13.73",
     "gatsby-image": "^2.2.10",
     "gatsby-plugin-feed": "^2.3.7",
